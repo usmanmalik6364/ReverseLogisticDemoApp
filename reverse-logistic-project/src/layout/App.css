@@ -1,0 +1,9 @@
+/* App.css */
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  

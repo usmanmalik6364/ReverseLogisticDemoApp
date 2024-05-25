@@ -1,0 +1,98 @@
+[
+    {
+      "id": "p001",
+      "title": "Apple iPhone 13",
+      "description": "Latest model with A15 Bionic chip and 128GB storage.",
+      "price": 999.99,
+      "currentBid": 1050.00,
+      "buyNowPrice": 1100.00,
+      "category": "Electronics",
+      "images": ["iphone13_1.jpg", "iphone13_2.jpg"],
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "condition": "New",
+      "dimensions": {"length": 14.7, "width": 7.1, "height": 0.7},
+      "weight": 0.174,
+      "sellerId": "seller001",
+      "timeLeftToBid": 7200,
+      "auctionEndTime": "2024-05-22T14:00:00Z",
+      "bids": [
+        {"bidderId": "bidder001", "bidAmount": 1000.00, "bidTime": "2024-05-21T12:00:00Z"},
+        {"bidderId": "bidder002", "bidAmount": 1050.00, "bidTime": "2024-05-21T13:00:00Z"}
+      ],
+      "createdAt": "2024-05-20T10:00:00Z",
+      "updatedAt": "2024-05-21T13:00:00Z"
+    },
+    {
+      "id": "p002",
+      "title": "Samsung Galaxy S21",
+      "description": "Flagship model with 256GB storage and 8GB RAM.",
+      "price": 799.99,
+      "currentBid": 850.00,
+      "buyNowPrice": 900.00,
+      "category": "Electronics",
+      "images": ["galaxys21_1.jpg", "galaxys21_2.jpg"],
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "condition": "New",
+      "dimensions": {"length": 15.1, "width": 7.1, "height": 0.8},
+      "weight": 0.169,
+      "sellerId": "seller002",
+      "timeLeftToBid": 10800,
+      "auctionEndTime": "2024-05-22T16:00:00Z",
+      "bids": [
+        {"bidderId": "bidder003", "bidAmount": 820.00, "bidTime": "2024-05-21T14:00:00Z"},
+        {"bidderId": "bidder004", "bidAmount": 850.00, "bidTime": "2024-05-21T15:00:00Z"}
+      ],
+      "createdAt": "2024-05-20T11:00:00Z",
+      "updatedAt": "2024-05-21T15:00:00Z"
+    },
+    {
+      "id": "p003",
+      "title": "Sony WH-1000XM4 Headphones",
+      "description": "Noise-cancelling over-ear headphones with 30-hour battery life.",
+      "price": 349.99,
+      "currentBid": 375.00,
+      "buyNowPrice": 400.00,
+      "category": "Electronics",
+      "images": ["sonywh1000xm4_1.jpg", "sonywh1000xm4_2.jpg"],
+      "brand": "Sony",
+      "model": "WH-1000XM4",
+      "condition": "New",
+      "dimensions": {"length": 8.3, "width": 7.2, "height": 3.1},
+      "weight": 0.255,
+      "sellerId": "seller003",
+      "timeLeftToBid": 5400,
+      "auctionEndTime": "2024-05-22T12:30:00Z",
+      "bids": [
+        {"bidderId": "bidder005", "bidAmount": 350.00, "bidTime": "2024-05-21T10:00:00Z"},
+        {"bidderId": "bidder006", "bidAmount": 375.00, "bidTime": "2024-05-21T11:00:00Z"}
+      ],
+      "createdAt": "2024-05-20T09:00:00Z",
+      "updatedAt": "2024-05-21T11:00:00Z"
+    },
+    {
+      "id": "p004",
+      "title": "Dell XPS 13 Laptop",
+      "description": "13-inch laptop with Intel i7 processor and 16GB RAM.",
+      "price": 1299.99,
+      "currentBid": 1350.00,
+      "buyNowPrice": 1400.00,
+      "category": "Computers",
+      "images": ["dellxps13_1.jpg", "dellxps13_2.jpg"],
+      "brand": "Dell",
+      "model": "XPS 13",
+      "condition": "New",
+      "dimensions": {"length": 30.4, "width": 19.9, "height": 1.5},
+      "weight": 1.2,
+      "sellerId": "seller004",
+      "timeLeftToBid": 14400,
+      "auctionEndTime": "2024-05-22T18:00:00Z",
+      "bids": [
+        {"bidderId": "bidder007", "bidAmount": 1300.00, "bidTime": "2024-05-21T16:00:00Z"},
+        {"bidderId": "bidder008", "bidAmount": 1350.00, "bidTime": "2024-05-21T17:00:00Z"}
+      ],
+      "createdAt": "2024-05-20T12:00:00Z",
+      "updatedAt": "2024-05-21T17:00:00Z"
+    }]
+  
